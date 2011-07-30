@@ -209,6 +209,7 @@ Peak finding
 
 import sigtools
 from waveforms import *
+from cwt import *
 
 # The spline module (a C extension) provides:
 #     cspline2d, qspline2d, sepfir2d, symiirord1, symiirord2
